@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm Büşra
+🌱 I’m currently learning Flutter & .Net<br>📫 How to reach me snbusra66@gmail.com
+
+
+# Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bus-sen&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bus-sen&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bus-sen&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!--
 **Bus-sen/Bus-sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
