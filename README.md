@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Büşra
-🌱 I’m currently learning Java & Flutter<br>📫 How to reach me snbusra66@gmail.com
+<!-- 🌱 I’m currently learning .Net <br> -->
+📫 How to reach me snbusra66@gmail.com
 
 
 # Tech Stack:
